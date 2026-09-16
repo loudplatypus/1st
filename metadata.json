@@ -1,0 +1,6 @@
+{
+  "name": "HeartSync",
+  "description": "An intimate space for couples to stay connected, share private encrypted photo timelines, milestones, jokes, custom notification sounds, and check-in pings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
